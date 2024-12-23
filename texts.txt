@@ -1,0 +1,113 @@
+About Us
+========
+
+
+We are a cutting-edge startup transforming CAD (Computer-Aided Design) with state-of-the-art neural network technologies. Our work focuses on advancing:
+
+Geometric Solvers: enhancing efficiency in 3D modeling and design.
+Nonlinear Equation Solvers on GPUs: delivering high-performance solutions for complex engineering tasks.
+
+Our team, including PhD-level experts in AI, computational geometry, and software development, is dedicated to research and development. By combining academic excellence with practical innovation, we create faster and more robust components to enhance existing CAD packages.
+
+Let’s shape the future of CAD together!
+
+
+
+Jobs
+====
+
+
+Job Title: Deep Learning Researcher
+
+Location: Fully Remote
+
+About Us:
+We are a forward-thinking startup revolutionizing CAD (Computer-Aided Design) by applying cutting-edge neural network technologies. Our team is driven by research and innovation, creating faster and more robust computational components for engineering and design.
+
+Job Description:
+We are seeking a skilled and experienced Deep Learning Researcher to join our team. The ideal candidate will combine a deep understanding of machine learning principles with expertise in mathematics, optimization, and computational software development.
+
+Key Responsibilities:
+
+* Research and develop advanced deep learning models tailored to CAD-related applications.
+* Critically evaluate and implement algorithms from academic literature, converting theoretical concepts into efficient code.
+* Collaborate with a multidisciplinary team to design innovative computational solutions.
+* Analyze performance metrics, troubleshoot, and refine models and algorithms.
+Requirements:
+
+* Strong understanding of deep learning principles and frameworks.
+* Solid academic background in linear algebra, analytical geometry, numerical methods, and optimization theory.
+* High academic achievement in a bachelor’s or master’s degree (excellent or near-excellent grades).
+* Over 10 years of experience developing software with significant computational components.
+* Proven ability to read, interpret, and critique scientific papers.
+* Hands-on experience implementing algorithms from research papers into production-level code.
+* Self-motivated and detail-oriented, with excellent problem-solving skills.
+
+Preferred Qualifications:
+
+* Familiarity with GPU computing and frameworks like TensorFlow or PyTorch.
+* Knowledge of CAD systems or computational geometry is a plus.
+* Advanced degrees (PhD or Master’s) are welcome but not required.
+
+What We Offer:
+
+* Opportunity to work on cutting-edge projects in a highly innovative environment.
+* Fully remote work with a flexible schedule.
+* Competitive salary ranging from $5,000 to $12,000 per month, based on experience and qualifications.
+* A collaborative and supportive team of experts passionate about technology and research.
+
+How to Apply:
+Please send your resume, a brief cover letter, and links to any relevant projects or publications to neurogeometrica@gmail.com. We look forward to hearing from you!
+
+
+
+
+Job Title: Business Development Manager – AI Solutions for CAD
+
+Location: Fully Remote
+
+About Us:
+We are a pioneering startup transforming CAD (Computer-Aided Design) by integrating state-of-the-art neural network technologies. Our innovations focus on creating faster and more robust computational components for engineering and design, making us a key player in the next generation of CAD systems.
+
+Job Description:
+We are seeking a results-driven Business Development Manager to lead our sales and partnership efforts with large corporations. This role will involve identifying new business opportunities, negotiating contracts, and building long-term relationships with enterprise clients.
+
+Key Responsibilities:
+
+Develop and execute a sales strategy to introduce our AI-driven CAD solutions to large enterprises.
+Identify and engage with key stakeholders in target companies, including executives, technical leads, and procurement teams.
+Conduct presentations and product demonstrations tailored to client needs.
+Negotiate and close sales agreements, ensuring mutual value and satisfaction.
+Build and maintain long-term relationships with corporate clients to secure repeat business and expand adoption of our solutions.
+Collaborate with our technical team to align product offerings with client requirements and feedback.
+Represent the company at industry events, conferences, and trade shows to increase brand visibility.
+Requirements:
+
+Proven experience in B2B sales, particularly with large corporations or enterprise clients.
+Strong understanding of software solutions, preferably in AI, CAD, or computational technologies.
+Exceptional communication and negotiation skills, with the ability to simplify complex concepts for non-technical audiences.
+Track record of achieving or exceeding sales targets.
+Self-motivated, proactive, and able to thrive in a remote working environment.
+Strong networking skills and the ability to establish trust with decision-makers.
+Preferred Qualifications:
+
+Background in engineering, CAD, or related technical fields is a strong plus.
+Experience selling AI or software-based solutions to enterprise clients.
+Familiarity with the challenges and needs of the CAD and engineering industries.
+What We Offer:
+
+Opportunity to work with cutting-edge AI technologies that are transforming the CAD industry.
+Fully remote position with a flexible schedule.
+Competitive compensation package, including base salary and performance-based incentives.
+A dynamic and supportive team committed to innovation and success.
+How to Apply:
+If you are passionate about sales, technology, and building meaningful business relationships, we’d love to hear from you! Please send your resume and a cover letter outlining your relevant experience to neurogeometrica@gmail.com.
+
+
+
+
+Contact Us
+==========
+Address: Armenia, Yerevan 0001, str. Moskovyan 3a
+Legal entity: Micromoment Software LLC
+Email: neurogeometrica@gmail.com
